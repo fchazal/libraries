@@ -1,4 +1,2 @@
-libraries
-=========
+# Initial page
 
-Useful bits of code for my web experiments
